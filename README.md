@@ -60,5 +60,7 @@
 9. ## Results
 
 10. ## Ethical Implications
+-  Deception of humans with advanced LM's
+-  Implicatoins for the Turing Test 
 
 11. ## Conclusion
