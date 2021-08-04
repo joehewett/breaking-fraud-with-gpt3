@@ -1,4 +1,3 @@
-md
 # Introduction to Prompting 
 
 > Like programming, but more fluid. You're not programming a computer, you're writing reality. It's strange. It's always different. It's never the same twice.
