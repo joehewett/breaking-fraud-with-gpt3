@@ -2,7 +2,10 @@
 # Breaking Advanced Fee Fraud with GPT-J-6b
 
   
- 2 parts - research around the problem area and into literature around how to best utilise language models for interacting with humans.
+ 3 parts:
+ - Research around the problem area and into literature around how to best utilise language models for interacting with humans.
+ - Design and implementation of the system
+ - Analysis of results, ethical discussion and conclusions 
 
 1.  ## Abstract
     
