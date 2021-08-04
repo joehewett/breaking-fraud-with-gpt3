@@ -16,29 +16,30 @@
 -   Describe a plan of action    
 -   Conclude with thesis statement
 
-3.  ## Cybercrime context
+3.  ## Research
+3.1  ### Cybercrime context
 -   Intro to AFF   
 -   Why is AFF a problem
    
-4.  ## Prompting  
+3.2.  ### Prompting  
 -   Introduction    
 -   Survey of literature   
 -   Analysis of techniques    
 -   Trial of techniques 1-10   
 -   Conclusion: best prompts
     
-5. ## System Requirements
+4. ## System Requirements
 
-6. ## Design
+5. ## Design
 
-7. ## Implementation
+6. ## Implementation
 
-8. ## Testing
+7. ## Testing
 
-9. ## Results
+8. ## Results
 
-10. ## Ethical Implications
+9. ## Ethical Implications
 -  Deception of humans with advanced LM's
 -  Implicatoins for the Turing Test 
 
-11. ## Conclusion
+10. ## Conclusion
