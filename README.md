@@ -17,11 +17,11 @@
 -   Conclude with thesis statement
 
 3.  ## Research
-### 3.1 Cybercrime context
+3.1 ### Cybercrime context
 -   Intro to AFF   
 -   Why is AFF a problem
    
-### 3.2. Prompting  
+3.2 ### Prompting  
 -   Introduction    
 -   Survey of literature   
 -   Analysis of techniques    
@@ -40,6 +40,8 @@
 
 8. ## Testing
 
-9. ## Results
+9. ## Results & Analysis
 
-10. ## Conclusion
+10. ## Project Management
+11. ## Evaluation 
+12. ## Conclusion
