@@ -27,19 +27,19 @@
 -   Analysis of techniques    
 -   Trial of techniques 1-10   
 -   Conclusion: best prompts
-    
-4. ## System Requirements
 
-5. ## Design
-
-6. ## Implementation
-
-7. ## Testing
-
-8. ## Results
-
-9. ## Ethical Implications
+4. ## Ethical Implications
 -  Deception of humans with advanced LM's
 -  Implicatoins for the Turing Test 
+
+5. ## System Requirements
+
+6. ## Design
+
+7. ## Implementation
+
+8. ## Testing
+
+9. ## Results
 
 10. ## Conclusion
