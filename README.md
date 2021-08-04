@@ -9,46 +9,21 @@
 2.  ## Introduction
     
 -   Set the context, why is this important?
-    
--   State the purpose
-    
--   Describe a plan of action
-    
+-   State the purpose   
+-   Describe a plan of action    
 -   Conclude with thesis statement
-    
-
-  
 
 3.  ## Cybercrime context
-    
-
--   Intro to AFF
-    
+-   Intro to AFF   
 -   Why is AFF a problem
-    
-
-  
-
-4.  ## Prompting
-    
-
--   Introduction
-    
--   Survey of literature
-    
--   Analysis of techniques
-    
--   Trial of techniques 1-10
-    
+   
+4.  ## Prompting  
+-   Introduction    
+-   Survey of literature   
+-   Analysis of techniques    
+-   Trial of techniques 1-10   
 -   Conclusion: best prompts
     
-
-  
-  
-  
-  
-  
-
 5. ## System Requirements
 
 6. ## Design
