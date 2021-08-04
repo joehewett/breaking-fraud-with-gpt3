@@ -59,4 +59,6 @@
 
 9. ## Results
 
-10. ## Conclusion
+10. ## Ethical Implications
+
+11. ## Conclusion
