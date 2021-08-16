@@ -31,8 +31,10 @@ A direct specification consists in constructing a signifier for the task. A sign
 
 GPT-3 demonstrates nuanced understanding of analogies [23]. Specification by proxy is mechanistically similar to direct specification, except that the signifier keys behaviors from memespace/cultural consciousness instead of naming the behavior directly.
 
-```For instance, instead of specifying exact criteria for an answer to a moral question directly or using examples, you could ask Mahatma Gandhi, Ayn Rand,
-or Eliezer Yudkowksy. Each will come not only with a complex biases but also assumptions about the context of the question, which would maybe take paragraphs to demonstrate or describe```
+```
+For instance, instead of specifying exact criteria for an answer to a moral question directly or using examples, you could ask Mahatma Gandhi, Ayn Rand,
+or Eliezer Yudkowksy. Each will come not only with a complex biases but also assumptions about the context of the question, which would maybe take paragraphs to demonstrate or describe
+```
 
 E.g. if we want something explained simply, we may frame that task within the context of a conversation between a teacher and a student.
 
@@ -44,10 +46,15 @@ As such, a culturally ambiguous prompt may generate an incoherent repsonse as if
 
 As such, it is helpful to constrain the behaviour by creating a prompt not merely consistent with the desired continuation, but inconsistent with undesired continuations 
 
-e.g. ```Translate French to English:
+e.g. 
+
+```
+Translate French to English:
 Mon corps est un transformateur de soi,
 mais aussi un transformateur pour cette
-cire de langage.```
+cire de langage.
+
+```
 
 Performs pooly because of the wide array of potential ways the model interprets that it can continue this sentence. By constraining the prompt with a new line following, quotes around the text, and "Translate this French sentence into an English sentence", reliably goes up drastically. 
 
@@ -55,9 +62,13 @@ Performs pooly because of the wide array of potential ways the model interprets 
 
 Prompt programming requires significant human time and intuition + trial & error. This motivates automated methods to generate task-specific prompts. 
 
-```We instead propose harnessing the language model itself via metaprompts, seeds encapsulating a more general intention that will unfold into a specific prompt when combined with additional information, such as the task question. ```
+```
+We instead propose harnessing the language model itself via metaprompts, seeds encapsulating a more general intention that will unfold into a specific prompt when combined with additional information, such as the task question. 
+```
 
-```A metaprompt may be something as short as a phrase such as “This problem asks us to”, a seemingly innocuous fragment which, by prompting for a statement of the problem’s intention, sets the stage for a serial explanation of a procedure to solve the problem```
+```
+A metaprompt may be something as short as a phrase such as “This problem asks us to”, a seemingly innocuous fragment which, by prompting for a statement of the problem’s intention, sets the stage for a serial explanation of a procedure to solve the problem
+```
 
 
 ### Conclusions we can draw from this paper
