@@ -62,13 +62,9 @@ Performs pooly because of the wide array of potential ways the model interprets 
 
 Prompt programming requires significant human time and intuition + trial & error. This motivates automated methods to generate task-specific prompts. 
 
-```
-We instead propose harnessing the language model itself via metaprompts, seeds encapsulating a more general intention that will unfold into a specific prompt when combined with additional information, such as the task question. 
-```
+"We instead propose harnessing the language model itself via metaprompts, seeds encapsulating a more general intention that will unfold into a specific prompt when combined with additional information, such as the task question. "
 
-```
-A metaprompt may be something as short as a phrase such as “This problem asks us to”, a seemingly innocuous fragment which, by prompting for a statement of the problem’s intention, sets the stage for a serial explanation of a procedure to solve the problem
-```
+"A metaprompt may be something as short as a phrase such as “This problem asks us to”, a seemingly innocuous fragment which, by prompting for a statement of the problem’s intention, sets the stage for a serial explanation of a procedure to solve the problem"
 
 
 ### Conclusions we can draw from this paper
