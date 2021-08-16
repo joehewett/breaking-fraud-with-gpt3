@@ -1,11 +1,9 @@
-md
-
 In this note I'll discuss some lessons to be learnt from one of the papers mentioned in my Reading List - [Prompt Programming for Large Language Models:
 Beyond the Few-Shot Paradigm](https://arxiv.org/pdf/2102.07350.pdf)
 
 ### 0-shot prompts can significantly outperform few-shot prompts
-This paper explores techniques for `exploiting the capacity of narratives
-and cultural anchors` to `encode nuanced intentions and techniques for encouraging deconstruction of a problem into components before producing a verdict`
+This paper explores techniques for "exploiting the capacity of narratives
+and cultural anchors" to "encode nuanced intentions and techniques for encouraging deconstruction of a problem into components before producing a verdict"
 
 Despite the name of the seminal paper "Language models are few-shot learners", the authors of this paper realised that in contexts such as translation, a few examples were insufficient to accurately convey the task to the model. What they posit is that it is possible to direct the model to access existing knowledge. Although prompts can be helpful in constraining the form of the output, in our there are a wide range of acceptable outputs and constraint via examples would be less beneficial than in say, language translation. 
 
