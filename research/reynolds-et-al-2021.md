@@ -31,10 +31,8 @@ A direct specification consists in constructing a signifier for the task. A sign
 
 GPT-3 demonstrates nuanced understanding of analogies [23]. Specification by proxy is mechanistically similar to direct specification, except that the signifier keys behaviors from memespace/cultural consciousness instead of naming the behavior directly.
 
-```
-For instance, instead of specifying exact criteria for an answer to a moral question directly or using examples, you could ask Mahatma Gandhi, Ayn Rand,
-or Eliezer Yudkowksy. Each will come not only with a complex biases but also assumptions about the context of the question, which would maybe take paragraphs to demonstrate or describe
-```
+"For instance, instead of specifying exact criteria for an answer to a moral question directly or using examples, you could ask Mahatma Gandhi, Ayn Rand,
+or Eliezer Yudkowksy. Each will come not only with a complex biases but also assumptions about the context of the question, which would maybe take paragraphs to demonstrate or describe"
 
 E.g. if we want something explained simply, we may frame that task within the context of a conversation between a teacher and a student.
 
